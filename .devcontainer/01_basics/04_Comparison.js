@@ -1,3 +1,4 @@
+
 console.log("2" > 1);
 console.log("02" > 1);
 console.log(null >= 0);
@@ -18,3 +19,22 @@ let useremail;
  const myfunction=function(){
     console.log("hello world");
  }
+
+
+
+ //stack
+ let name1="rupalishete"
+ let anothername=myyoutubenm
+ anothername="chaiaurcode"
+ console.log(myyoutubenm);
+ console.log(anothername);
+
+ let user={
+   email:"user@google.com"
+   upi:"user1@"
+ }
+
+ let usertwo=userone
+ usertwo.email="rupali@gmail.com"
+ console.log(userone.email);
+ console.log(usertwo.email);
