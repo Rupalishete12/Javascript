@@ -17,3 +17,9 @@ console.log(array1);
   
 array1.pop()     //delete
 console.log(array1)
+
+console.log(array1.includes(9));
+console.log(array1);
+
+const newarr=array1.join()        //bind the array
+console.log(newarr)
