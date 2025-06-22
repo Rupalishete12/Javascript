@@ -17,3 +17,10 @@ const regularuser={
     }
 }
 console.log(regularuser.fullname.userfullname.firstname);
+
+const obj1={1:"a",2:"b"}
+const obj2={7:"x",8:"z"}
+//const obj3={obj1,obj2}
+//const obj3=Object.assign(obj1,obj2)
+const obj3={...obj1, ...obj2}
+console.log(obj3);
