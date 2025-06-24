@@ -6,4 +6,37 @@ const b=20;
 
 }
 console.log(c);
-console.log(b);
+//console.log(b);
+
+function one(){
+    const username="rupali"
+
+    function two(){
+        const website="youtube"
+        console.log(username);
+}
+//console.log(website);
+two()
+}
+one()
+
+if(true){
+    const username="rupali"
+    if(username== "rupali"){
+        const website=" youtube"
+        console.log(username + website);
+    }
+   // console.log(website);
+}
+//console.log(username);
+
+//+++ interesting//
+function addone(num){
+    return num + 1
+
+}
+console.log(addone(5))
+const addtwo=function(num){
+    return num + 2
+}
+addtwo(5)
