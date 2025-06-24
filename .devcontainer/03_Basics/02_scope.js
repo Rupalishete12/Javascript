@@ -31,6 +31,8 @@ if(true){
 //console.log(username);
 
 //+++ interesting//
+
+addone()                            //hosting-before using
 function addone(num){
     return num + 1
 
