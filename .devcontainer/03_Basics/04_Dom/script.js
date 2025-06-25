@@ -11,6 +11,7 @@ console.dir("heading");
 let headings=document.getElementsByClassName("heading-class");
 console.log("headings")
 
+
 //selecting with tag
 let para=document.getElementsByName("p")
 console.log("para")
