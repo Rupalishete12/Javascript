@@ -22,3 +22,7 @@ console.dir("elements");
 
 //let allelem=document.querySelectorAll("p")
 //console.log(allelem);
+
+
+let div=document.querySelector("div");
+console.log("div");
