@@ -15,3 +15,10 @@ do{
    console.log("score is ${score}");
    score++
 }while(score <= 10);
+
+
+let count=1;
+while(count <= 5){
+    console.log("count is:" +count);
+    count++;
+}
